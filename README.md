@@ -18,18 +18,18 @@ In the video lesson, you learned about the syntax and code block of user-defined
 
 1.	The `def` keyword is used at the start of the function definition.
 2.	The function is given a unique name followed by parentheses and a colon. `def myfunction():`
-3.	Parameters listed in the parenthesese determine the number of positional and optional arguments passed into the function when it is called. `def myfunction(a,b=3):`
+3.	Parameters listed in the parentheses determine the number of positional and optional arguments passed into the function when it is called. `def myfunction(a,b=3):`
 4.	The code block is started on a new line and is indented by 4 spaces. The code block can include
     - Variable assignments
     - Operators
     - Conditionals
     - For loops
-    - Functions- built-in and UDFs
+    - Functions
     - And more.
-5.	The code block is ended with the `return` keyword followed by any outputs to be stored and the semi-colon `return … ;`
+5.	The code block is ended with the `return` keyword followed by any outputs to be stored and a semi-colon. `return … ;`
 6.	To call the function once it is defined, use the name and parentheses with positional and any desired optional arguments `myfunction(2)`.
 
-Let's now create a user-defined function in Pyhton!
+Let's now create a user-defined function in Python!
 
 ## Hands-on Lab
 
