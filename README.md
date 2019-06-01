@@ -17,8 +17,8 @@ Functions are blocks of code that can be called when needed, take in arguments, 
 In the video lesson, you learned about the syntax and code block of user-defined functions. 
 
 1.	The `def` keyword is used at the start of the function definition.
-2.	The function is given a unique name followed by parentheses and a colon `def myfunction():`
-3.	Positional and optional parameters are listed in the parentheses. `def myfunction(a,b=3):`
+2.	The function is given a unique name followed by parentheses and a colon. `def myfunction():`
+3.	Parameters listed in the parenthesese determine the number of positional and optional arguments passed into the function when it is called. `def myfunction(a,b=3):`
 4.	The code block is started on a new line and is indented by 4 spaces. The code block can include
     - Variable assignments
     - Operators
@@ -26,10 +26,10 @@ In the video lesson, you learned about the syntax and code block of user-defined
     - For loops
     - Functions- built-in and UDFs
     - And more.
-5.	The code block is ended with the return keyword followed by any output value to the stored and the semi-colon `return … ;`
-6.	To call the function once it is defined, use the name and parentheses with positional and any desired) optional arguments `myfunction(2)`.
+5.	The code block is ended with the `return` keyword followed by any outputs to be stored and the semi-colon `return … ;`
+6.	To call the function once it is defined, use the name and parentheses with positional and any desired optional arguments `myfunction(2)`.
 
-Let's create a user-defined function!
+Let's now create a user-defined function in Pyhton!
 
 ## Hands-on Lab
 
