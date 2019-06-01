@@ -8,8 +8,7 @@ Note: This module does not cover arbitary arguments in functions.
 
 ## User-Defined Functions Overview
 
-<iframe src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="0" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/Zi7sStdRkCw?rel=0
 
 ### Lesson Summary:
 In the video lesson, we went over the syntax and code blocks of user-defined functions. 
