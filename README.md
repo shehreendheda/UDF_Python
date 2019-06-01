@@ -10,9 +10,7 @@ Note: This module does not cover arbitary arguments in functions.
 
 https://youtu.be/Zi7sStdRkCw
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Zi7sStdRkCw
-"target="_blank"><img src="http://img.youtube.com/vi/Zi7sStdRkCw/0.jpg" 
-alt="User-Defined Functions in Python" width="240" height="180" border="10" /></a>
+[![User-Defined Functions in Python](http://img.youtube.com/vi/Zi7sStdRkCw/0.jpg)](http://www.youtube.com/watch?v=Zi7sStdRkCw)
 
 ### Summary:
 In the video lesson, we went over the syntax and code blocks of user-defined functions. 
