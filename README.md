@@ -7,7 +7,6 @@ Functions are blocks of code that can be called when needed, take in arguments, 
 **Note**: This module does not cover arbitary arguments in functions.
 
 **Estimated Time**: 12 minutes
-____
 
 
 ## User-Defined Functions - Getting Started
