@@ -8,16 +8,10 @@ Note: This module does not cover arbitary arguments in functions.
 
 ## User-Defined Functions Overview
 
-
-<div class="embed-container">
-<iframe src="https://www.youtube.com/embed/Zi7sStdRkCw"width="700" height="480" frameborder="1" allowfullscreen="">
-</iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="951" height="721" src="https://www.youtube.com/embed/Zi7sStdRkCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Summary:
+### Lesson Summary:
 In the video lesson, we went over the syntax and code blocks of user-defined functions. 
 
 1.	The `def` keyword is used at the start of the function definition.
