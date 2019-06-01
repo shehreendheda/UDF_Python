@@ -1,4 +1,4 @@
-# User-Defined Functions in Python Functions
+# User-Defined Functions in Python
 
 Functions are blocks of code that can be called when needed, take in arguments, and return outputs. Python has built-in functions and user-defined functions. In this module, you will learn how to create user-defined functions in Python. The module consists of a video lesson that provides an overview of the syntax and code block of user-defined functions followed by a hands-on lab that walks you through steps to define a function
 
@@ -11,7 +11,7 @@ Note: This module does not cover arbitary arguments in functions.
 <iframe width="951" height="721" src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="1" allowfullscreen></iframe>
 
 ### Recap:
-In the video lesson, we went over the syntax and code blocks of user-defined functions. 
+In the video lesson, you learn about the syntax and code block of user-defined functions. 
 
 1.	The `def` keyword is used at the start of the function definition.
 2.	The function is given a unique name followed by parentheses and a colon `def myfunction():`
