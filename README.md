@@ -32,4 +32,4 @@ Let's create a user-defined function!
 
 The following hands-on lab will walk you through creating a function that calculates and returns the sum of squares of a list of integers and checks if the sum is even or odd.
 
-<iframe width="1100" height="834" src="https://www.katacoda.com/embed/sdheda/udf_python" frameborder="1" allowfullscreen></iframe>
+<center><iframe width="1200" height="910" src="https://www.katacoda.com/embed/sdheda/udf_python" frameborder="1" allowfullscreen></iframe></center>
