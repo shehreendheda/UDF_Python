@@ -8,7 +8,7 @@ Note: This module does not cover arbitary arguments in functions.
 
 ## User-Defined Functions - Getting Started
 
-<iframe width="700" height="531" src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="1" allowfullscreen></iframe>
+<center><iframe width="700" height="531" src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="1" allowfullscreen></iframe></center>
 
 ### Recap:
 In the video lesson, you learn about the syntax and code block of user-defined functions. 
@@ -32,4 +32,4 @@ Let's create a user-defined function!
 
 The following hands-on lab will walk you through creating a function that calculates and returns the sum of squares of a list of integers and checks if the sum is even or odd.
 
-<iframe width="951" height="721" src="https://www.katacoda.com/embed/sdheda/udf_python" frameborder="1" allowfullscreen></iframe>
+<iframe width="951" height="721" src="https://www.katacoda.com/embed/sdheda/udf_python" frameborder="0" allowfullscreen></iframe>
