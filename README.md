@@ -6,11 +6,11 @@ Prerequisite Knowledge: A basic understanding of data types, variables, operator
 
 Note: This module does not cover arbitary arguments in functions.
 
-## User-Defined Functions Overview
+## User-Defined Functions - Getting Started
 
 <iframe width="951" height="721" src="https://www.youtube.com/embed/Zi7sStdRkCw?rel=0" frameborder="1" allowfullscreen></iframe>
 
-### Lesson Summary:
+### Recap:
 In the video lesson, we went over the syntax and code blocks of user-defined functions. 
 
 1.	The `def` keyword is used at the start of the function definition.
@@ -26,12 +26,10 @@ f.	And more
 5.	The code block is ended with the return keyword followed by any output value to the stored and the semi-colon `return … ;`
 6.	To call the function once it is defined, use the name and parentheses with positional and any desired) optional arguments `myfunction(2)`.
 
-Let's create a user-defined function.
+Let's create a user-defined function!
 
 ## Hands-on Lab
 
 The following hands-on lab will walk you through creating a function that calculates and returns the sum of squares of a list of integers and checks if the sum is even or odd.
 
-
-
-
+<iframe width="951" height="721" src="https://www.katacoda.com/embed/sdheda/udf_python" frameborder="1" allowfullscreen></iframe>
